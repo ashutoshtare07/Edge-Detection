@@ -92,3 +92,9 @@ python batch_compare.py --image photo.jpg \
 - `edge_detection.py` — interactive webcam/image/video tool with trackbars
 - `batch_compare.py` — headless batch comparison tool
 - `requirements.txt` — Python dependencies
+
+---
+
+## 👨‍💻 Author
+
+**Ashutosh Tare** — Aspiring ML Engineer | Data Science Enthusiast
