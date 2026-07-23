@@ -97,4 +97,4 @@ python batch_compare.py --image photo.jpg \
 
 ## 👨‍💻 Author
 
-**Ashutosh Tare** — Aspiring ML Engineer | Data Science Enthusiast
+**Ashutosh Tare** | ML Engineer | Data Science Enthusiast
